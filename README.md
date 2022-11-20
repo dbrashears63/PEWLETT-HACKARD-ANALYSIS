@@ -24,7 +24,7 @@ This table identified all the employees who were born between Jan 1, 1952, and D
 
 Table 1 Retirement Table by Title
 
-![](https://github.com/dbrashears63/PEWLETT-HACKARD-ANALYSIS/blob/main/Analysis%20Projects%20Folder/Images/retirement_titles.png| Width=100)
+![](/Images/retirement_titles.png| Width=100)
 
 ### Table 2 Retirement Table by Unique Title
 This table removed the duplicate employee names with multiple titles and provided a list of only the most recent title for each of the eligible employees. This produced the true number of employees eligible for retirement which is 72,458. 
