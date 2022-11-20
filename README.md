@@ -24,8 +24,7 @@ This table identified all the employees who were born between Jan 1, 1952, and D
 
 Table 1 Retirement Table by Title
 
-![](PEWLETT-HACKARD-ANALYSIS/Analysis Projects Folder/Images/retirement_titles.png)
-<img src="https://github.com/dbrashears63/PEWLETT-HACKARD-ANALYSIS/blob/main/Analysis%20Projects%20Folder/Images/retirement_titles.png"
+![alt text](https://github.com/dbrashears63/Pewlwtt-Hackard-Analysis/Analysis Project Folder/Images/retirement_titles.png)
 
 
 ### Table 2 Retirement Table by Unique Title
