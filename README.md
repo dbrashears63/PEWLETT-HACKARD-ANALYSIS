@@ -45,7 +45,7 @@ Table 3 Retiring Titles
 This table will establish which employees are eligible for the mentorship program put in place by the company to ensure there is a smooth transition as employees start to retire. Employees born between Jan 1, 1965, and Dec 31, 1965, will be eligible for the mentorship program. With these parameters there are 1,549 employees eligible for the mentorship program. 
 
 Table 4 Mentorship Program
-
+![](Analysis%20Projects%20Folder/Images/mentorship_program.png)
 
 
 ## Summary
