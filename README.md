@@ -8,8 +8,6 @@ The purpose of this analysis is to prepare Pewlett-Hackard, with thousands of em
 3.	Establish which employees are eligible for the mentorship program
 
 ## Resources
-### Software
-pgAdmin; PostreSQL; Quick DBD via quickdatabasediagrams.com
-### Data
-The data was contained in in the following csv files:
-departments; employees, dept_manager; dept_emp; titles; and salaries
+Software: pgAdmin 6.15, PostgresSQL 15, Visual Studio 1.73.1, Quick Database Diagrams via www.quickdatabasediagrams.com
+Data Source: departments.csv, employees.csv, dept_manager.csv, dept_emp.csv, titles.csv; and salaries.csv
+
