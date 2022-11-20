@@ -24,7 +24,7 @@ This table identified all the employees who were born between Jan 1, 1952, and D
 
 Table 1 Retirement Table by Title
 
-![alt text]("Analysis Projects Folder"/Images/retirement_titles.png)
+![alt text]('Analysis Projects Folder'/Images/retirement_titles.png)
 
 
 ### Table 2 Retirement Table by Unique Title
