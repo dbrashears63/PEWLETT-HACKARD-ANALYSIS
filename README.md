@@ -10,8 +10,11 @@ The purpose of this analysis is to prepare Pewlett-Hackard, with thousands of em
 
 ## Resources
 Software: pgAdmin 6.15, PostgresSQL 15, Visual Studio 1.73.1, Quick Database Diagrams via www.quickdatabasediagrams.com
+
 Data Source: departments.csv, employees.csv, dept_manager.csv, dept_emp.csv, titles.csv; and salaries.csv
+
 Output Data: retirement_titles2.csv, uniqueretirement_titles2, retiring_titles.csv, mentorship_program.csv 
+
 ## Results 
 
 Four different tables were created to answer the required questions to complete this analysis. 
