@@ -23,7 +23,7 @@ Four different tables were created to answer the required questions to complete 
 This table identified all the employees who were born between Jan 1, 1952, and Dec 31, 1955. This showed there were 133,776 employees eligible for retirement. However, after reviewing the table it contained duplicate names because the table included all the titles an employee had during their tenure with the company. 
 
 Table 1 Retirement Table by Title
-![](/Images/retirement_titles.png)
+![](PEWLETT-HACKARD-ANALYSIS/Analysis Projects Folder/Images/retirement_titles.png)
 
 
 ### Table 2 Retirement Table by Unique Title
