@@ -34,3 +34,15 @@ Image Table 3 Retiring Titles
 ### Table 4 Mentorship Program
 This table will establish which employees are eligible for the mentorship program put in place by the company to ensure there is a smooth transition as employees start to retire. Employees born between Jan 1, 1965, and Dec 31, 1965, will be eligible for the mentorship program. With these parameters there are 1,549 employees eligible for the mentorship program. 
 Image Table 4 Mentorship Program
+
+## Summary
+Losing critical knowledge due to retiring has the potential to lead to critical loss in relationships, reputation, regeneration and reduced continuity in the company. 
+
+To begin to prepare for the impending “Silver Tsunami” and the loss of critical knowledge the CEO has a taken a proactive stance by asking HR to determine how many employees will be reaching retirement age in the next few years and what departments will be affected.
+
+There are currently 331, 603 total employees of that number 72,458 that are nearing retirement age in the next few years. This accounts for almost 20% of the workforce. Of the 20% of the workforce that is retiring 70% of them are either Senior Staff or Senior Engineers. 
+
+To help with the large workforce loss the company has implemented a mentoring program to help with the transfer of leadership knowledge.  Currently only 1,549 employees have been identified as eligible for this program. This is significantly fewer numbers than needed to maintain historic company knowledge and continuity.
+
+Several things may be done to ensure the transfer of knowledge and leadership. One of the things the company will need to do is expand the eligibility of existing employees for the mentorship program. In addition, a large-scale increase in the hiring processes. The hiring process will need to be focused on the specific categories of titles.
+
