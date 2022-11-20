@@ -46,7 +46,7 @@ This table will establish which employees are eligible for the mentorship progra
 
 Table 4 Mentorship Program
 
-![](Analysis%20Projects%20Folder/Images/mentorship_program.png)
+
 
 ## Summary
 Losing critical knowledge due to retiring has the potential to lead to critical loss in relationships, reputation, regeneration and reduced continuity in the company. 
